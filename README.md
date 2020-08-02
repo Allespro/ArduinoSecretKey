@@ -13,9 +13,14 @@ $ bash compile.sh   #create binary file
 $ ./lurk            #run binary
 ```
 After ```./lurk``` you will see:
+
 ![key_wait.png](https://raw.githubusercontent.com/Allespro/ArduinoSecretKey/master/images/key_wait.png)
+
 That means that app wait key on ```/dev/ttyUSB0```.
 Connect Arduino to USB, if everything is cool you will see:
+
 ![key_found.png](https://raw.githubusercontent.com/Allespro/ArduinoSecretKey/master/images/key_found.png)
+
 And a train (```sl``` command):
+
 ![Train](https://raw.githubusercontent.com/Allespro/ArduinoSecretKey/master/images/chu_chu.png)
