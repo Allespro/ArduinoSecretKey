@@ -15,8 +15,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: compile
       run: bash compile.sh
-    - name: run
-      run: ./lurk
+
+
 
 
 
