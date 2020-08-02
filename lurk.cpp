@@ -95,5 +95,3 @@ int main() {
     close(fd);
     return (1);
 }
-
-//c88kDnu4zv3ProW0tUQQWbb1hCDq9TP3EdEZTnnRnP2tc4A0oxgvL8IB1dhk9D7Y
