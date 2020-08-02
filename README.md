@@ -1,4 +1,7 @@
 # Arduino as secret key
+
+![C/C++ CI](https://github.com/Allespro/ArduinoSecretKey/workflows/C/C++%20CI/badge.svg)
+
 Tested on Arduino NANO
 
 ##### How to use
