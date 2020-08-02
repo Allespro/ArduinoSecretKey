@@ -1,4 +1,4 @@
-# Arduino as secret key
+# Arduino as a secret key
 
 ![C/C++ CI](https://github.com/Allespro/ArduinoSecretKey/workflows/C/C++%20CI/badge.svg)
 
