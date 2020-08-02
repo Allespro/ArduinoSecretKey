@@ -1,0 +1,23 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ Test ]
+  pull_request:
+    branches: [ Test ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: compile
+      run: bash compile.sh
+
+
+
+
+
+
